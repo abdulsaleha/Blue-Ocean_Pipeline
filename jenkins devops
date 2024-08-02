@@ -4,7 +4,7 @@ agent any
 
 stages {
 
-stage('Sprint branch') {
+stage('Sprint2 branch') {
 
 steps {
 
@@ -35,5 +35,3 @@ sh 'echo "Deploying application...".
 }
 
 }
-
-
