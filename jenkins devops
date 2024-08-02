@@ -4,11 +4,11 @@ agent any
 
 stages {
 
-stage('Master branch') {
+stage('Sprint branch') {
 
 steps {
 
-sh 'echo "This is master branch"' }
+sh 'echo "This is Sprint branch"' }
 
 }
 
